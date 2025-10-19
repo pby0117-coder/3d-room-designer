@@ -1,8 +1,4 @@
 {
-  "type": "module"
-}
-
-{
   "name": "3d-room-designer",
   "version": "1.0.0",
   "private": true,
